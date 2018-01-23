@@ -29,7 +29,6 @@ public class C7_1 {
                 bestScore = score[i];
             }
         }
-        //Processing grades
 
         char grade;
         for (int i = 0; i < score.length; i++) {
